@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello 👋 ! Hope you are doing well today ☺️
+
+### About Me:
+👨‍🏫  I'm a data scientist, anything with lots of data excites me.
+📜  Imperial College London alumnus
+
+### Current Projects:  
+👉🏽 LSTM Autoencoder User Segmentation
+
+### Fun Facts:  
+🧑‍⚕️  Background - clinical medicine
+
+### Follow Me:
+🕵🏻‍♂️  https://www.linkedin.com/in/drdavidtang/
 
 <!--
 **dcstang/dcstang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
