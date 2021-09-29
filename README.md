@@ -2,9 +2,9 @@
 Hope you are doing well today ☺️
 
 ### About Me:
-👨‍🏫  I'm a data scientist, anything with lots of data excites me.
-📜  Imperial College London alumnus
-👨🏼‍💻  Interests: natural language processing and deep learning
+👨‍🏫  I'm a data scientist, anything with lots of data excites me   
+📜  Imperial College London alumnus   
+👨🏼‍💻  Interests: natural language processing and deep learning   
 
 ### Current Projects:  
 👉🏽 LSTM Autoencoder Dimensionality Reduction and Segmentation
