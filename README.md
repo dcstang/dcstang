@@ -3,7 +3,7 @@ Hope you are doing well today ☺️
 
 ### About Me:
 👨‍🏫  I'm a data scientist, anything with lots of data excites me   
-🗣️  I speak / coach / mentor [regularly](drdavidtang.page/talks.html)   
+🗣️  I speak / coach / mentor [regularly](https://www.drdavidtang.page/talks.html)   
 📜  Imperial College London alumnus   
 👨🏼‍💻  Interests: natural language processing and deep learning   
 
@@ -14,8 +14,8 @@ Hope you are doing well today ☺️
 🧑‍⚕️  Background - clinical medicine
 
 ### Follow Me:
-🕵🏻‍♂️  [LinkedIn profile](https://www.linkedin.com/in/drdavidtang/)
-🏠  [Website](drdavidtang.page)
+🕵🏻‍♂️  [LinkedIn profile](https://www.linkedin.com/in/drdavidtang/)   
+🏠  [Website](https://www.drdavidtang.page)  
 
 <!--
 **dcstang/dcstang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
