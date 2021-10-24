@@ -3,7 +3,7 @@ Hope you are doing well today ☺️
 
 ### About Me:
 👨‍🏫  I'm a data scientist, anything with lots of data excites me   
-🗣️  I speak / coach / mentor [regularly](drdavidtang.page/talks.html)
+🗣️  I speak / coach / mentor [regularly](drdavidtang.page/talks.html)   
 📜  Imperial College London alumnus   
 👨🏼‍💻  Interests: natural language processing and deep learning   
 
