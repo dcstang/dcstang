@@ -1,21 +1,15 @@
 ### Hello 👋 ! 
-Hope you are doing well today ☺️
 
 ### About Me:
-👨‍🏫  I'm a data scientist, anything with lots of data excites me   
-🗣️  I speak / coach / mentor [regularly](https://www.drdavidtang.page/talks/)   
+👨‍🏫  I'm passionate about big data + health + tech   
+🗣️  I speak / host machine learning events [regularly in London](https://drdavidtang.page/my-work.html)   
 📜  Imperial College London alumnus   
-👨🏼‍💻  Interests: natural language processing and deep learning   
-
-### Current Projects:  
-👉🏽 LSTM Autoencoder Dimensionality Reduction and Segmentation
-
-### Fun Facts:  
 🧑‍⚕️  Background - clinical medicine
 
 ### Follow Me:
 🕵🏻‍♂️  [LinkedIn profile](https://www.linkedin.com/in/drdavidtang/)   
 🏠  [Website](https://www.drdavidtang.page)  
+🏠  [Personal newsletter](https://www.davidtang.page)  
 
 <!--
 **dcstang/dcstang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
